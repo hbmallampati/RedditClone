@@ -72,7 +72,7 @@ interface RedditApi {
             )
             return GsonConverterFactory.create(gsonBuilder.create())
         }
-
+//
         // Keep the base URL simple
         //private const val BASE_URL = "https://www.reddit.com/"
         var httpurl = HttpUrl.Builder()
