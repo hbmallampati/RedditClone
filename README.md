@@ -32,13 +32,13 @@ This Reddit Clone Android App allows you to search for topics of your interest, 
 
 * In a thread say "r/soccer" user can scroll through all posts or look for posts of a kind by making use of search. In the image the user is looking for "news" posts in the "r/soccer" thread.
 <p align="center">
-  <img width="300" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943389-97e6b552-2d75-4ed2-8fbe-cdfba88dcd8a.png">
-  <img width="300" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943393-435ddfde-a643-481d-ba19-b30c5281e54a.png">
+  <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943389-97e6b552-2d75-4ed2-8fbe-cdfba88dcd8a.png">
+  <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943393-435ddfde-a643-481d-ba19-b30c5281e54a.png">
 </p>
 
 * User can favourite posts to save/review them later. All the favourited posts can be accessed by clicking on favourite icon in action bar. In the first image user has favorited the first three posts in "r/soccer" thread. In the second image usef is accessing his favourited posts in the favourites tab.
 <p align="center">
-  <img width="300" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943404-099a3e61-c6be-47b0-88de-a3f3c7e63d50.png">
-  <img width="300" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943405-7984c059-7fbf-409c-9449-76823adcf7c1.png">
+  <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943404-099a3e61-c6be-47b0-88de-a3f3c7e63d50.png">
+  <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943405-7984c059-7fbf-409c-9449-76823adcf7c1.png">
  </p>
 
