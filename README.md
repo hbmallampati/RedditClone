@@ -26,19 +26,21 @@ This Reddit Clone Android App allows you to search for topics of your interest, 
 
 * The user can switch to a thread, when in the Pick fragment the user can scroll through all Reddit threads to pick a thread or type a thread type he would be interested in. App will filter threads with search keyword and display filtered ones. In the second image user is looking for news threads.
 <p align="center">
-  <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943377-b5060296-9c21-4d6a-89f2-8d75d2a3cec6.png">      &nbsp; &nbsp; &nbsp; &nbsp;   
+  <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943377-b5060296-9c21-4d6a-89f2-8d75d2a3cec6.png">      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943385-88930c17-f243-4b31-a3f4-42db5c40d495.png">
 </p>
 
 * In a thread say "r/soccer" user can scroll through all posts or look for posts of a kind by making use of search. In the image the user is looking for "news" posts in the "r/soccer" thread.
 <p align="center">
   <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943389-97e6b552-2d75-4ed2-8fbe-cdfba88dcd8a.png">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943393-435ddfde-a643-481d-ba19-b30c5281e54a.png">
 </p>
 
 * User can favourite posts to save/review them later. All the favourited posts can be accessed by clicking on favourite icon in action bar. In the first image user has favorited the first three posts in "r/soccer" thread. In the second image usef is accessing his favourited posts in the favourites tab.
 <p align="center">
   <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943404-099a3e61-c6be-47b0-88de-a3f3c7e63d50.png">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943405-7984c059-7fbf-409c-9449-76823adcf7c1.png">
  </p>
 
