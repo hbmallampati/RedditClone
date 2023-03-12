@@ -1,10 +1,11 @@
 # Reddit Clone
-This Reddit Clone Android App allows you to search for topics of your interest, view related threads, read posts in details, favorite posts you like. 
+The Reddit Clone Android App is a scaled down version of actual app, in this users can view posts, like them, favourite them, read posts from threads of their interest, it supports all image formats, data is fetched in real time from Reddit database using Reddit APIs.
 
 ## Features
 * Search for topics of interest and view related threads, posts
-* Like/ add to favorites list interesting posts to read them later
+* Add interesting posts to favorites list to read them later
 * Read post in detail
+* Access all favourited posts at one place under favorites tab
 
 ## Tech Stack
 * MVVM architecture used for separation of concerns and efficient data flow
