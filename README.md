@@ -21,7 +21,7 @@ This Reddit Clone Android App allows you to search for topics of your interest, 
 ## App Functionality
 * App loads with "r/aww" Reddit thread as deafult thread. It has a search bar where user can type, app will perform text filtering over post heading and post content text to filter out posts containg search words. Each post will be displayed with a post heading, post text (if any), post image(if any), a bottom status tile with options to - to star a post, comment on the post, add/ remove a post to/ from favorites list. Users can scroll through the posts in the "r/aww" thread, the app in the background will be fetching more and more posts as user scrolls down. App makes use of Reddit APIs to interact and perform actions on Reddit backend data. 
 <p align="center">
-  <img width="320" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943328-8fa32c30-31b1-45ad-b5eb-46049b589ad3.png">
+  <img width="300" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943328-8fa32c30-31b1-45ad-b5eb-46049b589ad3.png">
 </p>
 
 * The user can switch to a thread, when in the Pick fragment the user can scroll through all Reddit threads to pick a thread or type a thread type he would be interested in. App will filter threads with search keyword and display filtered ones. In the second image user is looking for news threads.
