@@ -38,7 +38,7 @@ The Reddit Clone Android App is a scaled down version of actual app, in this use
   <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943393-435ddfde-a643-481d-ba19-b30c5281e54a.png">
 </p>
 
-* User can favourite posts to save/review them later. All the favourited posts can be accessed by clicking on favourite icon in action bar. In the first image user has favorited the first three posts in "r/soccer" thread. In the second image usef is accessing his favourited posts in the favourites tab.
+* User can favourite posts to save/review them later. All the favourited posts can be accessed by clicking on favourite icon in action bar. In the first image user has favorited the first three posts in "r/soccer" thread. In the second image user is accessing his favourited posts in the favourites tab.
 <p align="center">
   <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943404-099a3e61-c6be-47b0-88de-a3f3c7e63d50.png">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
