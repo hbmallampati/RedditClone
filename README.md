@@ -41,3 +41,8 @@ This Reddit Clone Android App allows you to search for topics of your interest, 
   <img width="200" height="380" alt="image" src="https://user-images.githubusercontent.com/98439391/213943405-7984c059-7fbf-409c-9449-76823adcf7c1.png">
  </p>
 
+
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
